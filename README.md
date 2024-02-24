@@ -16,5 +16,3 @@
 [Pseudo Classes](/Resources/Pseudo-class.md)
 
 [Criação de grupo de classes](/Resources/Components.md)
-
-[Algumas classes](/Resources/Classes.md)
